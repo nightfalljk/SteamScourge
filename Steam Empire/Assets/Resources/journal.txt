@@ -1,0 +1,8 @@
+1 clue:true:false
+2 clue:false:false
+3 clue:false:false
+4 clue:false:false
+5 clue:false:false
+6 clue:false:false
+7 clue:false:false
+8 clue:false:false
